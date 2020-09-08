@@ -1,0 +1,13 @@
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.exe
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.deps.json
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.json
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.runtimeconfig.dev.json
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.dll
+C:\Source\code repos\examplerepo\bin\Debug\netcoreapp3.1\examplerepo.pdb
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.csprojAssemblyReference.cache
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfoInputs.cache
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.AssemblyInfo.cs
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.csproj.CoreCompileInputs.cache
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.dll
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.pdb
+C:\Source\code repos\examplerepo\obj\Debug\netcoreapp3.1\examplerepo.genruntimeconfig.cache
